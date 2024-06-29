@@ -92,7 +92,6 @@
     <Compile Include="Assets\Starsky_Template\Hover_Select\Hover_Select_Object.cs" />
     <Compile Include="Assets\Starsky_Template\Cvp_Sample\Skill_Keterangan.cs" />
     <Compile Include="Assets\Starsky_Template\Convert_A_Object_To_A_String\Convert_A_Object_To_A_String.cs" />
-    <Compile Include="Assets\Starsky_Template\Custom_Editor\Create_Example\MyComponentEditor.cs" />
     <Compile Include="Assets\SampleScene\Script\Sample_Scene.cs" />
     <Compile Include="Assets\Starsky_Template\Mouse_Position\Mouse_Position_UI\Mouse_Position_UI.cs" />
     <Compile Include="Assets\Starsky_Template\Panel_Sumber_Selected_Button\Sumber_Selected_Button.cs" />

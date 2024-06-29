@@ -1,4 +1,4 @@
-
+#if UNITY_EDITOR
 using UnityEngine;
 using UnityEditor;
 
@@ -27,3 +27,4 @@ public class PauseOnSpace : MonoBehaviour
         }
     }
 }
+#endif
